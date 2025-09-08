@@ -33,7 +33,7 @@ You just need to serve the files on any static file server:
 1. Clone or download the repository:
 
    ```bash
-   git clone https://github.com/0wardriver0/stoXsimple.git
+   git clone https://github.com/loopbacklycan/stoXsimple.git
    cd stoXsimple
    
    npx serve
